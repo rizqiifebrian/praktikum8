@@ -35,7 +35,8 @@ Proses: Data mahasiswa ditambahkan ke dalam list sebagai dictionary, dan pesan k
 
 4. Metode tampilkan
 
-(https://github.com/user-attachments/assets/c4f58935-1836-4d47-a36c-40243578de83)
+![py8(4)](https://github.com/user-attachments/assets/d88f5e77-9c4f-4f21-80d2-bfa66b8c5844)
+
 
 
 
