@@ -1,5 +1,4 @@
 # praktikum8
-# praktikum.8
 Nama :Rizqi febrian arrahman <P>
 Nim  :312410544 <p>
 Kelas:TI 24 A5 <p>
